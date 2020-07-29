@@ -1,5 +1,2 @@
-# AndroidCustomKeyboard
+# A-Real-Time-Analysis-of-Offensive-Texts-to-prevent-Cyberbullying
 
-Android custom keyboard with predictive text.
-
-![Animated Gif](keyboard.gif)
